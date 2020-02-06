@@ -2,4 +2,7 @@ body {
     .con1{
         background-image: url(image/Снимок1.PNG);
     }
+    .con2{
+        background-color: write;
+    }
 }
