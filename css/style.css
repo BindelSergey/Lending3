@@ -5,6 +5,9 @@ body {
 .nav {
     background-color: #005455;
 }
+    .nav nav-tabs{
+        color: #fff;
+    }
 .con1{
         background-image: url(../image/Снимок1.PNG);
         height: 625px;
